@@ -15,9 +15,6 @@ PingApp-Server is a Node.js server that handles ping requests from the PingApp-C
 ## Configuration
 Update the following variable in `.env` file with your configuration:
 - `SERVER_PORT`: Port number for the server
-- `MONGODB_CONNECTION_STRING`: MongoDB connection string
-- `DATABASE_NAME`: Name of the MongoDB database
-- `DATABASE_COLLECTION`: Name of the MongoDB collection
 
 ## Usage
 1. Run the server: `node index.js`
